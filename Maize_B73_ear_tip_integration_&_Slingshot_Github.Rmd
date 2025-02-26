@@ -1,5 +1,5 @@
 ---
-title: "B73_ear_tip_integration_&_Slingshot_Github_Figure1A-1C_S2C-S2L"
+title: "Maize_B73_ear_tip_integration_&_Slingshot_Github_Figure1A-1C_S2C-S2L"
 
 ## Load all packages
 ```{r}
